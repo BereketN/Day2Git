@@ -22,4 +22,6 @@ public class Day2Demo {
 	
 	String firstname = "John";
 	
+	String firstname = "Cena";
+	
 }
