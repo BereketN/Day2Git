@@ -24,4 +24,6 @@ public class Day2Demo {
 	
 	String firstname = "Cena";
 	
+	Boolen isState = True;
+	
 }
